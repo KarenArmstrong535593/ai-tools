@@ -112,3 +112,5 @@ Find the [detailed changelog](/packages/tools/CHANGELOG.md) in the package root.
 
 - [Vercel AI SDK](https://sdk.vercel.ai/)
 - [Vercel AI SDK Tools: Docs](https://sdk.vercel.ai/docs/foundations/tools)
+
+<!-- Auto-update: 2025-10-14T01:40:22.760148 -->
