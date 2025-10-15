@@ -39,3 +39,5 @@ pnpm start:openai:generating
 # or
 pnpm start:google:streaming
 ```
+
+<!-- Auto-update: 2025-10-15T16:14:02.122930 -->
