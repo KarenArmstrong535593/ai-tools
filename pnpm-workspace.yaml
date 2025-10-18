@@ -6,3 +6,5 @@ onlyBuiltDependencies:
   - bufferutil
   - esbuild
   - utf-8-validate
+
+# Update: 2025-10-18
